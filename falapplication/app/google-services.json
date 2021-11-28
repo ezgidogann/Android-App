@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729321094688",
+    "project_id": "falapplication-42b1a",
+    "storage_bucket": "falapplication-42b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729321094688:android:51f005587de7dfbfa24645",
+        "android_client_info": {
+          "package_name": "com.ezgidogan.falapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729321094688-erhju383riril6fkvagh3sso22senp7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9noq-RvEK-XCqIzL0wcoIAJ2rximfmS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729321094688-erhju383riril6fkvagh3sso22senp7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
